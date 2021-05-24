@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Friday9101
-- 👀 I’m interested in Web development, javascript, jquery, c#, asp mvc 
+- 👀 I’m interested in Web development, javascript, sass, jquery, c#, asp mvc 
 - 🌱 I’m currently learning javascript, python 
-- 💞️ I’m looking to collaborate on javascript, python 
+- 💞️ I’m looking to collaborate on javascript, c#
 - 📫 How to reach me ogbofriday9101@gmail.com
 
 <!---
